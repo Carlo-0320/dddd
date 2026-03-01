@@ -1,0 +1,24 @@
+# Cartelle legacy / sistema (FrontPage, cache)
+_vti_cnf/
+_vti_pvt/
+_vti_log/
+_vti_script/
+_vti_txt/
+_fpclass/
+_private/
+_themes/
+*.mdb
+App_Data/
+aspnet_client/
+cgi-bin/
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE
+.idea/
+.vscode/
+*.suo
+*.user
